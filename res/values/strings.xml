@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GDGSP</string>
+    <string name="confirm">Confirme sua Presença no Evento</string>
+	<string name="logo">Logo do GDG-SP</string>
+</resources>
